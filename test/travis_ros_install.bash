@@ -8,8 +8,8 @@ pip install rospkg
 
 #ros install
 cd ..
-git clone https://github.com/ryuichueda/ros_setuo_scripts_Ubuntu16.04_server.git
-cd ./ros_setuo_scripts_Ubuntu16.04_server
+git clone https://github.com/ryuichueda/ros_setuo_scripts_Ubuntu14.04_server.git
+cd ./ros_setuo_scripts_Ubuntu14.04_server
 bash ./step0.bash
 bash ./step1.bash
 
